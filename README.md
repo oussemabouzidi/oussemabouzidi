@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm currently working on mobile development and exploring new fields like Ai Ml and big data<br><br>i'm looking to collaborate on a startup application<br><br>i'm currently learning kotlin and jetpack compose
+i'm currently working on mobile development and exploring new fields like Ai Ml and big data<br><br>i'm currently learning kotlin and jetpack compose
 
 
 ## 🌐 Socials:
