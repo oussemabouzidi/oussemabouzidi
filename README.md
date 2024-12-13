@@ -1,7 +1,5 @@
-<div align="center">
-  <img src="https://i.postimg.cc/zDTWRW59/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" alt="banner" />
-</div>
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+
+<h1 align="center">Hi 👋, I'm Oussema</h1>
 <h3 align="center">Aspiring Developer and Problem Solver</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -13,7 +11,7 @@
 
 - 👨‍💻 My projects are showcased at [https://your-portfolio-link.com/](https://your-portfolio-link.com/)
 
-- 📫 How to reach me **your-email@example.com**
+- 📫 How to reach me **bouzidioussema@example.com**
 
 - 📄 Learn more about my experiences on [My Resume](https://your-resume-link.com/)
 
