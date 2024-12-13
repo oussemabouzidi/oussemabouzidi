@@ -1,79 +1,53 @@
-<!-- Modern GitHub Profile README Template -->
-
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/your-banner-image" alt="Banner" style="width: 100%;"/>
-  <h1>Hi there! 👋</h1>
-  <p>
-    I'm <strong>Oussema Bouzidi</strong>, a passionate <strong>Information Systems Developer</strong> from Tunisia 🌍.
-    <br>💻 Specializing in modern web and mobile development.
-    <br>🎓 Final-year student at <strong>ISET Kelibia</strong>.
-  </p>
-  <p align="center">
-    🚀 Currently exploring <strong>Mobile Development, AI, Machine Learning</strong>.<br>
-  </p>
+  <img src="https://i.postimg.cc/zDTWRW59/Black-and-White-Simple-Art-Director-Linked-In-Banner.png" alt="banner" />
 </div>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">Aspiring Developer and Problem Solver</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20views&color=0e75b6&style=flat" alt="your-username" />
+</p>
 
-### 🌟 Tech Stack  
+- 🌱 I’m currently learning **Flutter, Java, and Web Development.**
 
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-orange?logo=html5&logoColor=white&style=for-the-badge" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-CSS-blue?logo=css3&logoColor=white&style=for-the-badge" alt="CSS"/>
-  <img src="https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white&style=for-the-badge" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-Angular-red?logo=angular&logoColor=white&style=for-the-badge" alt="Angular"/>
-  <img src="https://img.shields.io/badge/-Flutter-blue?logo=flutter&logoColor=white&style=for-the-badge" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/-Java-brown?logo=java&logoColor=white&style=for-the-badge" alt="Java"/>
-  <img src="https://img.shields.io/badge/-Kotlin-purple?logo=kotlin&logoColor=white&style=for-the-badge" alt="Kotlin"/>
-  <img src="https://img.shields.io/badge/-Jetpack_Compose-green?logo=android&logoColor=white&style=for-the-badge" alt="Jetpack Compose"/>
-  <img src="https://img.shields.io/badge/-PHP-777bb4?logo=php&logoColor=white&style=for-the-badge" alt="PHP"/>
-  <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?logo=bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/-Firebase-ffca28?logo=firebase&logoColor=black&style=for-the-badge" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/-Symfony-black?logo=symfony&logoColor=white&style=for-the-badge" alt="Symfony"/>
-  <img src="https://img.shields.io/badge/-LoopBack_4-red?logo=node.js&logoColor=white&style=for-the-badge" alt="LoopBack 4"/>
-  <img src="https://img.shields.io/badge/-Node.js-green?logo=nodedotjs&logoColor=white&style=for-the-badge" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-C-blue?logo=c&logoColor=white&style=for-the-badge" alt="C"/>
-</div>
+- 👨‍💻 My projects are showcased at [https://your-portfolio-link.com/](https://your-portfolio-link.com/)
 
----
+- 📫 How to reach me **your-email@example.com**
 
-### 🚀 Featured Projects  
+- 📄 Learn more about my experiences on [My Resume](https://your-resume-link.com/)
 
-<div align="center">
-  <p>
-    🛒 <a href="https://github.com/oussemabouzidi/E-commerce-client-"><strong>E-Commerce App</strong></a>:  
-    A modern Angular-based e-commerce platform with API integration.
-  </p>
-  <p>
-    📚 <a href="https://github.com/oussemabouzidi/Gestion-de-cour-de-l-ISET"><strong>School Management System</strong></a>:  
-    Developed with Angular, LoopBack 4, and MySQL for my university.
-  </p>
-  <p>
-    🔐 <a href="https://github.com/oussemabouzidi/Module-de-Gestion-des-Stages"><strong>Internship Management Application</strong></a>:  
-    Built with PHP, JavaScript, and MySQL for academic project management.
-  </p>
-</div>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-profile/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-profile" height="30" width="40" />
+  </a>
+  <a href="https://stackoverflow.com/users/your-id" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="your-stackoverflow" height="30" width="40" />
+  </a>
+  <a href="https://www.facebook.com/your-profile" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="your-facebook" height="30" width="40" />
+  </a>
+</p>
 
----
-
-### 📊 GitHub Stats  
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=oussemabouzidi&show_icons=true&theme=radical" alt="Oussema's GitHub Stats" style="width: 48%;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oussemabouzidi&layout=compact&theme=radical" alt="Oussema's Top Languages" style="width: 48%;"/>
-</div>
-
----
-
-### 🌐 Connect with Me  
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/oussema-bouzidi/"><img src="https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn"/></a>
-  <a href="mailto:bouzidioussema16@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?logo=gmail&logoColor=white&style=for-the-badge" alt="Email"/></a>
-</div>
-
----
-
-<div align="center">
-  ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=oussemabouzidi.oussemabouzidi)
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40" />
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" />
+  </a>
+  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40" />
+  </a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" />
+  </a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40" />
+  </a>
+</p>
