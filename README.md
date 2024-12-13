@@ -10,7 +10,6 @@
   </p>
   <p align="center">
     🚀 Currently exploring <strong>Mobile Development, AI, Machine Learning</strong>.<br>
-    🌱 Learning and growing every day!
   </p>
 </div>
 
