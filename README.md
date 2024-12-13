@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 I'm [Your Name], a passionate **[Your Profession/Title]** from Tunisia 🌍.
 
 💻 I specialize in Information Systems Development  
-🚀 Currently exploring [specific skills or technologies]  
+🚀 Currently exploring Mobile Development, AI, Machine Learning ...
 🎓 Student at **ISET Kelibia**
 
 ### Tech Stack
