@@ -1,6 +1,5 @@
 # 💫 About Me:
-i'm currently working on mobile development and exploring new fields like Ai Ml and big data<br><br>i'm currently learning kotlin and jetpack compose
-
+I have worked on various academic, personal, and professional projects. using frameworks such as Angular, Symfony, Jetpack Compose, and Flutter. I have a solid foundation in full-stack development and I am aiming to further enhance my skills and deepen my knowledge in the IT field.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/ousama.bz.7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/oussema-bouzidi/) 
